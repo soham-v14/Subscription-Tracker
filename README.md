@@ -14,7 +14,7 @@ A **Subscription Management System API** built using **Node.js, Express.js, and 
 This project is developed by **Soham Vyas**, a student learning backend development and real-world API architecture.
 
 🔗 **GitHub Repository:**  
-https://github.com/soham-v14/Subscription-Tracker.git
+[https://github.com/soham-v14/Subscription-Tracker.git](https://github.com/soham-v14/Subscription-Tracker-API.git)
 
 ---
 
